@@ -1,0 +1,4 @@
+depend:fixed_point lib_bmp simple_gui parameter_manager
+LDFLAGS:
+CFLAGS:-g -Wall -ansi -pedantic
+
